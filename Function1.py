@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 
+#some simply functions[
+
 #first
 def solve_eq(equation):
     x, add, num1, equal, num2 = equation.split()
